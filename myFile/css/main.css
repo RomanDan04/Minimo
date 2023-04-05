@@ -1,0 +1,162 @@
+body{
+    min-width: 320px;
+    font-size: 15px;
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+a{
+    color: #b4ad9e;
+}
+a:hover{
+    color: #898377;
+}
+header .navbar-brand
+{
+    font-family: 'Inconsolata',monospace;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+header .nav-item
+{
+    text-transform: uppercase;
+    margin-left: 100px;
+}
+.corp
+{
+    margin:50px;
+}
+.post-category,.link-more
+{
+    font-family: 'Ubuntu',sans-serif;
+    font-size: 14px;
+    color: #b4ad9c;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+p
+{
+    line-height: 27px;
+}
+h2,h3
+{
+    margin: 20px 0px;
+    font-size: 30px;
+}
+.grid-posts
+{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.card
+{
+    border: 0;
+    margin-bottom: 70px;
+}
+.card-body
+{
+    padding-left: 0;
+    padding-right: 0;
+}
+.card-img-top
+{
+    max-height: 350px;
+}
+.load-more
+{
+    padding: 1rem 2rem;
+    border-color: #626262;
+}
+.load-more span
+{
+    display: none;
+}
+#hide1,#hide2
+{
+    display: none;
+}
+.signup
+{
+    background-color: #f0f0f0;
+    padding: 10px 0;
+}
+.signup h3
+{
+    color: #333;
+}
+.signup form
+{
+    padding-top: 30px;
+}
+.signup .form-input
+{
+    position: relative;
+}
+.signup .form-control
+{
+    border: 0;
+    border-bottom: 1px solid #000;
+    background-color: #f0f0f0;
+    border-radius: 0;
+}
+.signup .form-control:focus
+{
+    box-shadow: none;
+}
+.form-input .btn
+{
+    position: absolute;
+    right: 0;
+    top: -12px;
+    font-size: 30px;
+}
+.form-input .btn:focus
+{
+    box-shadow: none;
+}
+#icons
+{
+    width: 15px;
+    height: 15px;
+}
+.footer
+{
+    background-color: #f0f0f0;
+    padding: 10px 0;
+    color: black;
+}
+footer a
+{
+    color: black;
+    margin-left: 10px;
+}
+.cards
+{
+    height: 700px;
+}
+.right
+{
+    display: flex;
+    justify-content: right;
+}
+.col-md-4
+{
+    padding-left:0;
+    padding-right: 50px;
+}
+.sub-card
+{
+    color: #6e6e6e;
+}
+.category
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+.aria
+{
+    width: 100%;
+}
